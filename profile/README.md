@@ -1,54 +1,63 @@
 # VoidWare
 
-Welcome to the VoidWare GitHub organization! We are a community of passionate developers, designers, and technologists dedicated to creating innovative software solutions and exploring new technologies.
-
-## Mission
-
-At VoidWare, our mission is to push the boundaries of technology and deliver exceptional software experiences. We strive to create open-source projects that are not only functional but also beautifully designed and user-friendly.
+Welcome to VoidWare! This organization is currently a one-person endeavor led by Void, dedicated to developing innovative and useful software tools.
 
 ## Projects
 
-### 1. VWPTPFTT (VoidWare Peer-To-Peer File Transfer Tool)
-**Description**: A powerful and secure peer-to-peer file transfer tool.
-**Features**:
-- Support for multiple file types.
-- User-friendly interface.
-- Secure file transfers with encryption.
+### Simple File Scanner
+**Description:** A tool for finding old and unused files/folders that the user has not used in a set amount of time.  
+**Language:** Python  
+**License:** Other  
+**Last Updated:** 2 weeks ago
 
-### 2. Voided.lol
-**Description**: The official website for the VoidWare organization.
-**Features**:
-- Modern, sleek design with a dark UI.
-- Information about our projects and team.
-- Contact information and links to our social profiles.
+### LethalCompanyAdvancedTeleporter
+**Description:** Advanced teleporter tool.  
+**Language:** C#  
+**Last Updated:** Last month
 
-## Contributing
+### Goork
+**Description:** A powerful Python-based tool designed to streamline Google Dorking, enhancing your ability to find sensitive information and vulnerabilities through advanced search queries.  
+**Language:** Python  
+**License:** MIT License  
+**Last Updated:** Last month
 
-We welcome contributions from the community! If you're interested in contributing to any of our projects, please follow these steps:
+### Fortnite Version Downloader
+**Description:** A CLI utility to download and archive various Fortnite versions across different seasons.  
+**Language:** Python  
+**Last Updated:** Last month
 
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Create a new Pull Request.
+### VVoiddd.github.io
+**Description:** The official GitHub Pages website for VoidWare.  
+**Language:** HTML  
+**Last Updated:** Jun 11
 
-Please ensure your code follows our coding standards and includes appropriate tests.
+### BMI Calculator
+**Description:** A simple web application that allows users to calculate their Body Mass Index (BMI) quickly and easily.  
+**Language:** CSS  
+**License:** MIT License  
+**Last Updated:** Jun 9
+
+### Notepad Pro
+**Description:** Test project.  
+**Last Updated:** Jun 8
+
+### Proxodone
+**Description:** Test project.  
+**Last Updated:** Jun 8
 
 ## Contact
 
-Feel free to reach out to us through the following channels:
-
-- **Email**: [void@voided.lol](mailto:void@voided.lol)
-- **GitHub**: [VVoiddd](https://github.com/VVoiddd)
+- **Email:** [void@voided.lol](mailto:void@voided.lol)
+- **GitHub:** [Void's GitHub Profile](https://github.com/VVoiddd)
 
 ## License
 
-All projects under the VoidWare organization are licensed under the [MIT License](LICENSE).
+All projects are released under their respective licenses as mentioned above.
 
 ## Acknowledgements
 
-We would like to thank all contributors and supporters who help make our projects possible. Your efforts and dedication are greatly appreciated!
+Special thanks to all the developers and contributors in the open-source community whose work and dedication continue to inspire and support this project.
 
 ---
 
-<p align="center">© 2024 VoidWare. All rights reserved.</p>
+&copy; 2024 VoidWare. All rights reserved.
